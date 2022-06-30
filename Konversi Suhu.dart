@@ -82,3 +82,6 @@ back(){
       print('Terima Kasih');
     }
 }
+
+
+//Copyright oleh Ristu Mactavish
